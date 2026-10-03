@@ -1,0 +1,8 @@
+.venv/
+.venv-repro/
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
+*.tmp
+.cache/

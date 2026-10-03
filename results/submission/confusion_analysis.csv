@@ -1,0 +1,4 @@
+Model,Best Class,Best Class Recall,Worst Class,Worst Class Recall,Most Confused Pair,Most Confused Count
+2D_CNN,A,0.9736842105263158,E,0.3631578947368421,E -> D,54
+ResNet18,A,1.0,E,0.8526315789473684,E -> B,18
+DenseNet161,A,0.9947368421052631,E,0.8421052631578947,"E -> B, E -> D",13
